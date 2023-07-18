@@ -9,7 +9,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://readmestats.999857.xyz/api?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://readmestats.999857.xyz/?user=jonas-holanda&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jonas-holanda&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://readmestats.999857.xyz/api/top-langs/?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
