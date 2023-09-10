@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 👨‍💻 Olá, me chamo Jonas Holanda. Muito prazer.
 
@@ -16,3 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=jonas-holanda&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
