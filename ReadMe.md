@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:20px" width=100% src="header-jonasholanda.webp" />
+<img align="center" style="margin-bottom:20px" width=100% height="auto" src="header-jonasholanda.webp" />
 <div align="center">
 
 # 💫 About Me:
@@ -14,8 +14,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-<img width="50%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-holanda&theme=chartreuse-dark&hide_border=false">
-<img width="46%"  align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<img width="50%" height="auto"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-holanda&theme=chartreuse-dark&hide_border=false">
+<img width="46%" height="auto" align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
 ![](https://readmestats.999857.xyz/api?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -26,4 +26,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd1f21&height=120&section=footer"/>
+<img width=100% height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=bd1f21&height=120&section=footer"/>
