@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 <div>
 <img width="50%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas-holanda&theme=chartreuse-dark&hide_border=false">
-<img widht="50%" height="183px"  align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<img widht="40%" height="183px"  align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=jonas-holanda&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div><br>
 &nbsp;
 
