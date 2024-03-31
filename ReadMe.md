@@ -29,5 +29,4 @@
 
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=bd1f21&height=120&section=footer"/>
 
-## snake eating my contribution graph
 ![snake gif](https://github.com/jonas-holanda/jonas-holanda/blob/output/github-contribution-grid-snake-dark.svg)
