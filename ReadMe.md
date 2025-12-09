@@ -33,11 +33,8 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonas-holanda&theme=algolia&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonas-holanda&theme=algolia&locale=pt_BR)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-holanda&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=donut&langs_count=8)
-
-![](https://github-readme-stats.vercel.app/api?username=jonas-holanda&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)
 
 
 ![Visualizações no Perfil](https://komarev.com/ghpvc/?username=jonas-holanda&color=bd1f21)
